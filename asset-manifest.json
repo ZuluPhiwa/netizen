@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/netizen/static/css/main.48267eb5.css",
+    "main.js": "/netizen/static/js/main.7e1df83d.js",
+    "static/media/banners.png": "/netizen/static/media/banners.c74b4b89110d404e58ba.png",
+    "static/media/banner.png": "/netizen/static/media/banner.d634da186197b167a347.png",
+    "static/media/bann.jpg": "/netizen/static/media/bann.9fd8a3c7bf2441d1cc5c.jpg",
+    "static/media/bam.jpg": "/netizen/static/media/bam.9f3ca0ed294586a6148b.jpg",
+    "static/media/bamko.otf": "/netizen/static/media/bamko.4ddc53ccbac2a08d9400.otf",
+    "static/media/Querygrand.otf": "/netizen/static/media/Querygrand.41b3a59151a892633891.otf",
+    "static/media/Joaqueen.otf": "/netizen/static/media/Joaqueen.f122f5db03b8e1ded8ce.otf",
+    "static/media/HelloParisSerif-Regular.ttf": "/netizen/static/media/HelloParisSerif-Regular.7e5046eaac1232ac6283.ttf",
+    "static/media/logo-net.png": "/netizen/static/media/logo-net.98535aec6052c13af826.png",
+    "static/media/Bryson.otf": "/netizen/static/media/Bryson.2466c73fea7eac8c8e7f.otf",
+    "index.html": "/netizen/index.html",
+    "main.48267eb5.css.map": "/netizen/static/css/main.48267eb5.css.map",
+    "main.7e1df83d.js.map": "/netizen/static/js/main.7e1df83d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48267eb5.css",
+    "static/js/main.7e1df83d.js"
+  ]
+}
